@@ -8,6 +8,7 @@ public class Exp1 {
 		System.out.println("Hello Java3");
 		System.out.println("Hello Java4");
 		System.out.println("Hello Java5");
+		System.out.println("Hello Java6");
 		
 	}
 
